@@ -164,7 +164,7 @@ The default directory structure of a generated Ruby on Rails application:
   |   |-- helpers
   |   |-- mailers
   |   |-- models
-  |   `-- views
+  |   `-- views 
   |       `-- layouts
   |-- config
   |   |-- environments
